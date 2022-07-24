@@ -8,11 +8,19 @@
    The application allows users to view/add/modify and delete data for Products , Categories and Tags via api's.
 
 ## Table of Content
- * Description
- * Installation
- * Built 
- * Usage
- * Question
+ * [Description](#description)
+ * [Installation](#installation)
+ * [Technologies Used](#technologies used)
+ * [Usage](#usage)
+ * [Question](#question)
+
+## Technologies Used
+  * JavaScript
+  * Mysql
+  * Sequilize ORM
+  * Express
+  * Node.js
+  * Insomia
 
 ## Installation
 To run the command line application.
@@ -41,6 +49,9 @@ To run the command line application.
 
 
 
-
 ## GitHub Repo Link
  * https://github.com/Rotimi-28/e-commerce-back-end
+
+
+## Question
+ You can email me on the email-addres below for any question or contribution.
