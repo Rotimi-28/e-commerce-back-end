@@ -32,8 +32,12 @@ To run the command line application.
 . Access the api via tools like Postman or Insomnia
 
 
-## Lonk To Video
+## Link To Videos
+ * https://drive.google.com/file/d/1xgVP1H99c46tJDN_ODjmHD1o5j5UrXXG/view
+ 
+ * https://drive.google.com/file/d/1__EUrn98ghH707ZydTbAMia2NayCAozq/view
 
+* https://drive.google.com/file/d/1avgj64gfUkiQolPXA-22XjE06nc9ijnb/view
 
 
 
