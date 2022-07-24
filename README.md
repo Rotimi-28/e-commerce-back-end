@@ -10,7 +10,7 @@
 ## Table of Content
  * [Description](#description)
  * [Installation](#installation)
- * [Technologies Used](#technologies used)
+ * [Technologies Used](#technologiesused)
  * [Usage](#usage)
  * [Question](#question)
 
